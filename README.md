@@ -5,7 +5,7 @@
 
 |- main
 
-   |- source # Python源代码文件
+      |- source # Python源代码文件
       |- request.py # 爬取数据的程序
       |- chart.py # 生成图表的程序
    |-data
