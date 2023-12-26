@@ -3,9 +3,8 @@
 
 文件夹结构如下，其中带*的文件或目录为程序运行时生成的额外数据或日志文件，在提交版本中为节省空间已删去
 
-|- main
-
-      |- source # Python源代码文件
+      |- main
+            |- source # Python源代码文件
       |- request.py # 爬取数据的程序
       |- chart.py # 生成图表的程序
    |-data
