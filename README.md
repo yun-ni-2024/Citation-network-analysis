@@ -10,9 +10,9 @@
             |-data
                   |- lab_1 # 不同爬虫工作的独立工作空间
                         |- data.json # 爬取的数据文件
-                        |- *run # 运行时存放数据的文件夹，运行request.py时自动生成
-                              |- *queue.txt
-                              |- *vis.txt
+                        |- run # 运行时存放数据的文件夹，运行request.py时自动生成
+                              |- queue.txt
+                              |- vis.txt
                         |- *save # 保存备份数据的文件夹，运行request.py时自动生成
                               |- ...
                         |- *log # 存放日志文件的文件夹，运行request.py时自动生成
