@@ -1,5 +1,4 @@
-# Citation-network-analysis---Python-course-project
-2023-Fall NJU
+# Citation-network-analysis
 
 文件夹结构如下，其中带*的文件或目录为程序运行时生成的额外数据或日志文件，在提交版本中为节省空间已删去
 
